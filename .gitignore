@@ -1,0 +1,10 @@
+#folders
+.idea/
+Keys/
+target/
+lib/*
+out/
+
+#files
+sanchez.iml
+!lib/Put Libraries Here
