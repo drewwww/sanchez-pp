@@ -1,8 +1,8 @@
 #folders
 .idea/
-Keys/
+Keys/*.key
 target/
-lib/*
+lib/*.exe
 out/
 
 #files
